@@ -201,11 +201,13 @@ Date,Head,Amount,Name,Description
 01/06/2024,SukiHomesTrust,-21500,Suki homes trust,Monthly payment
 01/06/2024,Caretaker,-22000,Vanitha,Caretaker
 01/06/2024,Caretaker,-8000,Ammayamma,Caretaker
-01/06/2024,Inflow,8000,Withdrawal from appa account,Took from appa
+01/06/2024,Inflow,8000,Withdrawal from appa account,Took from appa (Ammayamma)
 01/07/2024,SukiHomesTrust,-21500,Suki homes trust,Monthly payment
 01/07/2024,Caretaker,-23500,Vanitha,Caretaker
 01/07/2024,Caretaker,-8000,Ammayamma,Caretaker
-01/07/2024,Inflow,8000,Withdrawal from appa account,Took from appa
+01/08/2024,Inflow,8000,Withdrawal from appa account,Took from appa (Ammayamma)
+01/08/2024,Caretaker,-8000,Ammayamma,Caretaker
+01/07/2024,Inflow,8000,Withdrawal from appa account,Took from appa  (Ammayamma)
 01/08/2023,SukiHomesSetup,-5376,Bathroom support,Suki homes setup
 01/10/2023,Caretaker,-10000,Vanitha (Dussehra),Care taker
 12/12/2023,Cash to Appa,-67500,Cash withdrawal,Mis
@@ -245,3 +247,47 @@ Date,Head,Amount,Name,Description
 29/01/2024,Electricity,-1371,TNEB,Electricity charges
 01/02/2024,Electricity,-1311,TNEB,Electricity charges
 06/04/2024,Medicines,-499,AP,Medicines
+11/01/2025,Medicines,-3840,Kasthuri Medicals,Medicines
+03/01/2025,Medicines,-2525,Kasthuri Medicals,Medicines
+26/12/2024,Medicines,-6220,Kasthuri Medicals,Medicines
+08/12/2024,Medicines,-4880,Kasthuri Medicals,Medicines
+13/11/2024,Medicines,-6170,Kasthuri Medicals,Medicines
+02/11/2024,Medicines,-3189,Kasthuri Medicals,Medicines
+19/10/2024,Medicines,-1950,Kasthuri Medicals,Medicines
+16/10/2024,Medicines,-1680,Kasthuri Medicals,Medicines
+07/10/2024,Medicines,-4080,Kasthuri Medicals,Medicines
+03/10/2024,Medicines,-2200,Kasthuri Medicals,Medicines
+14/09/2024,Medicines,-5590,Kasthuri Medicals,Medicines
+08/09/2024,Medicines,-1700,Kasthuri Medicals,Medicines
+29/08/2024,Medicines,-1800,Kasthuri Medicals,Medicines
+17/08/2024,Medicines,-4340,Kasthuri Medicals,Medicines
+13/08/2024,Medicines,-349,Kasthuri Medicals,Medicines
+13/08/2024,Medicines,-2230,Kasthuri Medicals,Medicines
+01/08/2024,Medicines,-3850,Kasthuri Medicals,Medicines
+21/07/2024,Medicines,-3660,Kasthuri Medicals,Medicines
+03/08/2024,Caretaker,-24500,Vanitha,Caretaker
+02/08/2024,SukiHomesTrust,-21500,Suki homes trust,Monthly payment
+02/09/2024,Caretaker,-26500,Vanitha,Caretaker
+02/09/2024,SukiHomesTrust,-21500,Suki homes trust,Monthly payment
+02/10/2024,Caretaker,-26500,Vanitha,Caretaker
+02/10/2024,SukiHomesTrust,-21500,Suki homes trust,Monthly payment
+04/11/2024,Caretaker,-26500,Vanitha,Caretaker
+04/11/2024,SukiHomesTrust,-21500,Suki homes trust,Monthly payment
+01/12/2024,Caretaker,-26500,Vanitha,Caretaker
+01/12/2024,SukiHomesTrust,-21500,Suki homes trust,Monthly payment
+02/01/2025,Caretaker,-26500,Vanitha,Caretaker
+02/01/2025,SukiHomesTrust,-21500,Suki homes trust,Monthly payment
+04/10/2024,Caretaker,-10000,Vanitha,Dussehra Bonus
+04/12/2024,Caretaker,-10000,Ammayamma,Caretaker
+04/12/2024,Inflow,10000,Withdrawal from appa account,Took from appa (Ammayamma)
+04/10/2024,Caretaker,-10000,Ammayamma,Caretaker
+04/10/2024,Inflow,10000,Withdrawal from appa account,Took from appa (Ammayamma)
+02/01/2025,Caretaker,-10000,Ammayamma,Caretaker
+02/01/2025,Inflow,10000,Withdrawal from appa account,Took from appa (Ammayamma)
+04/09/2024,Caretaker,-10000,Ammayamma,Caretaker
+04/09/2024,Inflow,10000,Withdrawal from appa account,Took from appa (Ammayamma)
+04/11/2024,Caretaker,-10000,Ammayamma,Caretaker
+04/11/2024,Inflow,10000,Withdrawal from appa account,Took from appa (Ammayamma)
+19/12/2024,Electricity,-1081,TNEB,Electricity charges
+19/10/2024,Electricity,-1119,TNEB,Electricity charges
+19/08/2024,Electricity,-1177,TNEB,Electricity charges
